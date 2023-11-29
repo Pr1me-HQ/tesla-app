@@ -12,9 +12,6 @@
 
 > This app is a fully functional Tesla Clone built with React-Native and Expo-CLI.
 
-## To use the App
-- [Link to Expo Store](https://expo.dev/@shubh73/tesla?serviceType=classic&distribution=expo-go)
-
 Scan the QR code from the above link with your Expo App with Android/Iphone
 
 ## Design Overview
